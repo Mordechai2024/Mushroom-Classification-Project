@@ -1,4 +1,4 @@
-<img src="https://github.com/Mordechai2024/Mushroom-Classification-Project/blob/main/Mushrooms%20image.jpg?raw=true" alt="Example Image" width="900" height="600" style="float: right; margin-right: 10px;"/>
+<img src="https://github.com/Mordechai2024/Mushroom-Classification-Project/blob/main/Mushrooms%20image.jpg?raw=true" alt="Example Image" width="900" height="400" style="float: right; margin-right: 10px;"/>
 
 # Mushroom Classification Project
 This project focuses on building a machine learning model that predicts whether mushrooms are edible or poisonous based on their physical characteristics. The dataset used for this task is derived from the well-known UCI Mushroom dataset.
